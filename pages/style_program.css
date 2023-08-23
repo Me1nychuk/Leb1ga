@@ -18,21 +18,13 @@ ol {
 }
 
 .main-content {
-  padding: 80px 40px 80px 88px;
-  box-sizing: border-box;
-}
-
-.sidebar {
-  background: #2ecc71;
   padding-top: 40px;
   padding-bottom: 40px;
   box-sizing: border-box;
-  width: 370px;
+  margin: auto;
 }
 
-.sidebar-content {
-  padding: 40px;
-}
+
 
 .contacts-title {
   color: #161d2a;
